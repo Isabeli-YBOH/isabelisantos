@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isabelisantos.
+- 👋 Hi.
 - 🌱 I’m currently learning programming.
 
 
